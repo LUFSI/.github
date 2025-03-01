@@ -1,4 +1,4 @@
-# Leitstellenspiel Userscript Standards and Framework Initiative (LUFSI)
+# Leitstellenspiel Userscript Framework and Standards Initiative (LUFSI)
 
 This organisation is a group of people creating userscripts for [Leitstellenspiel.de](https://leitstellenspiel.de).
 
