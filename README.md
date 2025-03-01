@@ -1,5 +1,5 @@
-# Leitstellenspiel Userscript Standards and Framework Initiative (LUFSI)
+# .github
 
-This organisation is a group of people creating userscripts for [Leitstellenspiel.de](https://leitstellenspiel.de).
+This repository contains meta-files for this organisation.
 
-We're aming to develop standards & conventions for userscripts as well as provide a framework consisting of diverse snippets that can be included in userscripts.
+For example, the `/profile/README.md` file is used to generate some kind of "landing page" for the organisation.
